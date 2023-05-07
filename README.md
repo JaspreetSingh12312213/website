@@ -17,7 +17,7 @@
       </nav>
     </header>
     <main>
-      <div id="banner">
+      <div style{background: linear-gradient(blue, yellow);} id="banner">
         <h1>Welcome to Medical Centre</h1>
         <p>Your health is our top priority</p>
       </div>
