@@ -35,7 +35,7 @@ body {
   }
   
   #banner {
-  background: linear-gradient(blue, yellow);
+   background-image: url("ban.jpg");
     background-size: cover;
     color: #fff;
     text-align: center;
