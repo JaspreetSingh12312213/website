@@ -1,4 +1,3 @@
-# website
 <html>
   <head>
     <title>Medical Centre</title>
@@ -17,7 +16,7 @@
       </nav>
     </header>
     <main>
-      <div style{background: linear-gradient(blue, yellow);} id="banner">
+      <div id="banner">
         <h1>Welcome to Medical Centre</h1>
         <p>Your health is our top priority</p>
       </div>
